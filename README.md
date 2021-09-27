@@ -1,10 +1,10 @@
-#### Better Philippine Names (Hearts of Iron IV Mod)
+### Better Philippine Names (Hearts of Iron IV Mod)
 
-##### About
+#### About
 
 It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippine Republic in the game, Hearts of Iron IV.
 
-##### Why?
+#### Why?
 
 The names "Ganap Philippines" and "Huk Community of the Philippines" just suck, and those names are unheard and not existing in Philippine history.
 
@@ -12,7 +12,7 @@ In addition, the generic infantry division name for the Philippines, "1st Philip
 
 HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and in real-life, especially in WW2.
 
-##### Guarantees and limitations
+#### Guarantees and limitations
 
 This mod is meant to **replace only entity names. I did not override the vanilla features/mechanics for the game.** For example, the Phillipines will still be a democratic puppet of the US in the 1936 and 1939 starts of the game. I also did not changed any of the ideas, techs and equipment count of the Philippines.
 
@@ -22,9 +22,9 @@ Based from my manual testing, other nations can still be played normally while t
 
 I also created the mod in a way that it won't break any future DLC releases for HOI4.
 
-##### Features
+#### Features
 
-###### Country name changes
+##### Country name changes
 - Democratic Philippines will retain it's name, `Philippines`.
 - Neutral/Monarchy Philippines will have a new name, `Haring Bayang Katagalugan` and will have a flag based on the Katipunan Magdalo Flag.
 - Fascist Phillipines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
@@ -41,7 +41,7 @@ For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it's the one 
 
 Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag (for the communist Philippines) because those concepts just became available after WW2.
 
-###### Division name changes
+##### Division name changes
 
 - The default name for the Philippine infantry divisions will now be `%ordinalNumber% Infantry Division`. It's `%ordinalNumber% Philippines Division` on vanilla. For example, the first infantry division will be called `1st "Tabak" Infantry Division`.
 
@@ -53,16 +53,16 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 - The default name for the Philippine garrison infantry divisions will now be `%ordinalNumber% Infantry (Res.) Division`. It's `%ordinalNumber% Philippines Div.` on vanilla. For example, the first marine unit will be called `1st Infantry (Res.) Division`.
 
-###### Ship name changes
+##### Ship name changes
 
 - Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like `RPS - Barkong Pandigma I`. This rull will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like `RPS - Submarino I`.
 
-###### Bonus feature - Benigno Ramos
+##### Bonus feature - Benigno Ramos
 
 Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure because he is a Japanese collaborationist.
 
-##### Issues / Future notes
+#### Issues / Future notes
 
 Please feel free to reports issues about bugs and feature requests that might be related to name changes only. I'm planning to create a separate mod/project in the future. The concept of the mod that I might create is `What if the 2021 Philippines has been transported back in time, in 1936 pre-WW2 era?`.
