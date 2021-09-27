@@ -30,38 +30,41 @@ I also created the mod in a way that it won't break any future DLC releases for 
 - Fascist Phillipines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
 - Communist Philippines will be called `Bayan`. For it's flag, I chose the old neutral/monarchy Philippines flag.
 
+<em>
 Notes:
+
 I chose the new names of the Philippines according to my own interpretation of Philippine History before and during World War II.
 
-Regarding the Fascist Philippines' name, the puppet Second Philippine Republic headed by President Jose P. Laurel in real-life didn't change the country's name. It's actual official name is `Republika ng Pilipinas` and it has no English name [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic).
+Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. It's actual official name is `Republika ng Pilipinas` and it has no official English translation, only Japanese and Spanish ones, since it's a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic).
 
-For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` at it's name because I think they would choose it to be the Philippine's name if they would be able to have a chance to rule the archipelago.
+For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as it's name because I think they would choose it to be the Philippine's name if they would be able to have a chance to rule the archipelago.
 
 For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it's the one chosen by Andres Bonifacio to be the name of the new Independent Philippines.
 
 Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag (for the communist Philippines) because those concepts just became available after WW2.
+</em>
 
 ##### Division name changes
 
-- The default name for the Philippine infantry divisions will now be `%ordinalNumber% Infantry Division`. It's `%ordinalNumber% Philippines Division` on vanilla. For example, the first infantry division will be called `1st "Tabak" Infantry Division`.
+- The default name for the Philippine infantry divisions will now be `%ordinalNumber% Infantry Division`. It's `%ordinalNumber% Philippines Division` on vanilla. For example, the first infantry division will be called **1st "Tabak" Infantry Division**.
 
-- The default name for the Philippine armored divisions will now be `%ordinalNumber% Armored Division`. It's `%ordinalNumber% Philippines Tank Group` on vanilla. For example, the first armored division will be called `1st "Pambato" Armored Division`.
+- The default name for the Philippine armored divisions will now be `%ordinalNumber% Armored Division`. It's `%ordinalNumber% Philippines Tank Group` on vanilla. For example, the first armored division will be called **1st "Pambato" Armored Division**.
 
-- The default name for the Philippine marine units will now be `%ordinalNumber% Marine Regiment`. It's `%ordinalNumber% Philippines Marine Div.` on vanilla. For example, the first marine unit will be called `1st Marine Regiment`.
+- The default name for the Philippine marine units will now be `%ordinalNumber% Marine Regiment`. It's `%ordinalNumber% Philippines Marine Div.` on vanilla. For example, the first marine unit will be called **1st Marine Regiment**.
 
-- The default name for the Philippine mountain infantry units will now be `%ordinalNumber% Scout Ranger Regiment`. It's `%ordinalNumber% Philippines Mountain Div.` on vanilla. For example, the first marine unit will be called `1st Scout Ranger Regiment`.
+- The default name for the Philippine mountain infantry units will now be `%ordinalNumber% Scout Ranger Regiment`. It's `%ordinalNumber% Philippines Mountain Div.` on vanilla. For example, the first marine unit will be called **1st Scout Ranger Regiment**.
 
-- The default name for the Philippine garrison infantry divisions will now be `%ordinalNumber% Infantry (Res.) Division`. It's `%ordinalNumber% Philippines Div.` on vanilla. For example, the first marine unit will be called `1st Infantry (Res.) Division`.
+- The default name for the Philippine garrison infantry divisions will now be `%ordinalNumber% Infantry (Res.) Division`. It's `%ordinalNumber% Philippines Div.` on vanilla. For example, the first marine unit will be called **1st Infantry (Res.) Division**.
 
 ##### Ship name changes
 
-- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like `RPS - Barkong Pandigma I`. This rull will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
+- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rull will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
 
-- Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like `RPS - Submarino I`.
+- Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
 
 ##### Bonus feature - Benigno Ramos
 
-Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure because he is a Japanese collaborationist.
+Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine History because he is a Japanese collaborationist.
 
 #### Issues / Future notes
 
