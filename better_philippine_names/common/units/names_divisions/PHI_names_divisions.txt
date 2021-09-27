@@ -1,4 +1,4 @@
-﻿# Division template historical names system. Is a new method of naming the divisions based on the names-group assigned to it's template.
+# Division template historical names system. Is a new method of naming the divisions based on the names-group assigned to it's template.
 # If we run out of all historical names, the names will be assigned in the old way.
 #
 # Each group has a made up tag. Use it if you want to append more, or replace existing names with the extra txt files (modding).
@@ -52,12 +52,24 @@ PHI_INF_01 =
 	{
 		1 = { "%dst 'Tabak' Infantry Division" }
 		2 = { "%dnd 'Kalasag' Infantry Division" }
-		3 = { "%drd Infantry Division" }
+    3 = { "%drd Infantry Division" }
+    4 = { "%dth Infantry Division" }
+		5 = { "%dth Infantry Division" }
 		6 = { "%dth 'Kampilan' Infantry Division" }
 		7 = { "%dth 'Kaugnay' Infantry Division" }
+    8 = { "%dth Infantry Division" }
+    9 = { "%dth Infantry Division" }
 		10 = { "%dth 'Agila' Infantry Division" }
 		11 = { "%dth 'Kampilan' Infantry Division" }
 		12 = { "%dth Infantry Division" }
+		13 = { "%dth Infantry Division" }
+		14 = { "%dth Infantry Division" }
+		15 = { "%dth Infantry Division" }
+		16 = { "%dth Infantry Division" }
+		17 = { "%dth Infantry Division" }
+		18 = { "%dth Infantry Division" }
+		19 = { "%dth Infantry Division" }
+		20 = { "%dth Infantry Division" }
 		21 = { "%dst Infantry Division" }
 		22 = { "%dnd Infantry Division" }
 		23 = { "%drd Infantry Division" }
@@ -327,11 +339,23 @@ PHI_GAR_01 =
 		1 = { "%dst Infantry (Res.) Division" }
 		2 = { "%dnd Infantry (Res.) Division" }
 		3 = { "%drd Infantry (Res.) Division" }
+		4 = { "%dth Infantry (Res.) Division" }
+		5 = { "%dth Infantry (Res.) Division" }
 		6 = { "%dth Infantry (Res.) Division" }
 		7 = { "%dth Infantry (Res.) Division" }
+		8 = { "%dth Infantry (Res.) Division" }
+		9 = { "%dth Infantry (Res.) Division" }
 		10 = { "%dth Infantry (Res.) Division" }
 		11 = { "%dth Infantry (Res.) Division" }
 		12 = { "%dth Infantry (Res.) Division" }
+		13 = { "%dth Infantry (Res.) Division" }
+		14 = { "%dth Infantry (Res.) Division" }
+		15 = { "%dth Infantry (Res.) Division" }
+		16 = { "%dth Infantry (Res.) Division" }
+		17 = { "%dth Infantry (Res.) Division" }
+		18 = { "%dth Infantry (Res.) Division" }
+		19 = { "%dth Infantry (Res.) Division" }
+		20 = { "%dth Infantry (Res.) Division" }
 		21 = { "%dst Infantry (Res.) Division" }
 		22 = { "%dnd Infantry (Res.) Division" }
 		23 = { "%drd Infantry (Res.) Division" }
