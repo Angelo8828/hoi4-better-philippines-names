@@ -12,6 +12,10 @@ In addition, the generic infantry division name for the Philippines, "1st Philip
 
 HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and in real-life, especially in WW2.
 
+#### Installation notes
+- Download the contents of this repository and place it on your `Documents/Paradox Interactive/Hearts of Iron IV/mod`. If the mod folder is not existing, then you can create it manually.
+- Then, install the mod using the launcher or you can also install it manually by inserting the mod's name on `dlc.json` file. 
+
 #### Guarantees and limitations
 
 This mod is meant to **replace only entity names. I did not override the vanilla features/mechanics for the game.** For example, the Phillipines will still be a democratic puppet of the US in the 1936 and 1939 starts of the game. I also did not changed any of the ideas, techs and equipment count of the Philippines.
@@ -52,9 +56,9 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 - The default name for the Philippine marine units will now be `%ordinalNumber% Marine Regiment`. It's `%ordinalNumber% Philippines Marine Div.` on vanilla. For example, the first marine unit will be called **1st Marine Regiment**.
 
-- The default name for the Philippine mountain infantry units will now be `%ordinalNumber% Scout Ranger Regiment`. It's `%ordinalNumber% Philippines Mountain Div.` on vanilla. For example, the first marine unit will be called **1st Scout Ranger Regiment**.
+- The default name for the Philippine mountain infantry units will now be `%ordinalNumber% Scout Ranger Regiment`. It's `%ordinalNumber% Philippines Mountain Div.` on vanilla. For example, the first mountain infantry division will be called **1st Scout Ranger Regiment**.
 
-- The default name for the Philippine garrison infantry divisions will now be `%ordinalNumber% Infantry (Res.) Division`. It's `%ordinalNumber% Philippines Div.` on vanilla. For example, the first marine unit will be called **1st Infantry (Res.) Division**.
+- The default name for the Philippine garrison infantry divisions will now be `%ordinalNumber% Infantry (Res.) Division`. It's `%ordinalNumber% Philippines Div.` on vanilla. For example, the first garrison infantry unit will be called **1st Infantry (Res.) Division**.
 
 ##### Ship name changes
 
