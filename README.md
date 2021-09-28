@@ -14,7 +14,7 @@ HOI4 is one of the most amazing strategy games out there but Filipino names just
 
 #### Installation notes
 - Download the contents of this repository and place it on your `Documents/Paradox Interactive/Hearts of Iron IV/mod`. If the mod folder is not existing, then you can create it manually.
-- Then, install the mod using the launcher or you can also install it manually by inserting the mod's name on `dlc.json` file. 
+- Then, install the mod using the launcher or you can also install it manually by inserting the mod's name on `dlc.json` file.
 
 #### Guarantees and limitations
 
@@ -62,7 +62,7 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 ##### Ship name changes
 
-- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rull will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
+- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
 
