@@ -32,18 +32,22 @@ I also created the mod in a way that it won't break any future DLC releases for 
 ###### Democracy
 - Democratic Philippines will retain its name, `Philippines`.
 - `Manuel Luis Quezon` will still be the leader of the `Nacionalista Party`.
+- Added `Dealbroker` and `Smooth-Talking Charmer` traits to Manuel Quezon
 
 ###### Fascism
 - Fascist Philippines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
 - `Benigno P. Ramos` will be the leader of the `Ganap Party`, having a generic portrait
+- Added `Editor` and `Eager Collaborator` traits to Benigno Ramos
 
 ###### Communism
 - Communist Philippines will be called `Bayan`. For its flag, I chose the old neutral/monarchy Philippines flag.
 - `Luis M. Taruc` will be the leader of the `Partido Komunista ng Pilipinas`, having a generic portrait too
+- Added `Ideological Crusader` and `Headstrong` traits to Luis Taruc
 
 ###### Neutral
 - Neutral Philippines will have a new name, `Haring Bayang Katagalugan`, and will have a flag based on the Katipunan Magdalo Flag.
 - `Artemio Ricarte` will lead the reformed `Katipunan`, also having a generic portrait
+- Added `Retired Officer` and `Hawk` traits to Artemio Ricarte
 
 <em>
 Notes:
@@ -78,3 +82,22 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 - Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers, battleships, and aircraft carriers).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
+
+##### New custom Filipino callsigns for flying aces
+
+- Added these words to be possible callsigns for flying aces
+  - Agila
+  - Lawin
+  - Bagwis
+  - Alapaap
+  - Mandirigma
+  - Probinsiyano
+  - Barbero
+  - Mananabas
+  - Maligno
+  - Uno
+  - Da King
+
+#### Possible future improvements
+- Custom portraits for Benigno Ramos, Luis Taruc and Artemio Ricarte
+- Custom flag designs for fascist, communist and neutral Philippines
