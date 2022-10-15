@@ -10,7 +10,7 @@ The names "Ganap Philippines" and "Huk Community of the Philippines" just suck, 
 
 In addition, the generic infantry division name for the Philippines, "1st Philippines Division" also sucks (really Paradox Interactive?).
 
-HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and in real life, especially in WW2.
+HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and real life, especially in WW2.
 
 #### Installation notes
 - Download the contents of this repository and place it on your `Documents/Paradox Interactive/Hearts of Iron IV/mod`. If the mod folder is not existing, then you can create it manually.
@@ -37,9 +37,9 @@ I also created the mod in a way that it won't break any future DLC releases for 
 <em>
 Notes:
 
-I chose the new names of the Philippines according to my own interpretation of Philippine History before and during World War II.
+I chose the new names of the Philippines according to my interpretation of Philippine History before and during World War II.
 
-Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. It's actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it's a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
+Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since its a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
 
 For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as its name because I think they would choose it to be the Philippines' name if they would be able to have a chance to rule the archipelago.
 
