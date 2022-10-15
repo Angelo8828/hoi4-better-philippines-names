@@ -8,7 +8,7 @@ characters={
 		}
 		country_leader={
 			ideology=conservatism
-			traits={ national_integralist dealbroker }
+			traits={ smooth_talking_charmer dealbroker }
 			expire="1944.8.1.1"
 			id=-1
 		}
@@ -41,17 +41,17 @@ characters={
 			id=-1
 		}
 	}
-	PHI_hermano_jacinto={
-		name="Hermano Jacinto"
+	PHI_artemio_ricarte={
+		name="Artemio G. Ricarte"
 		portraits={
 			civilian={
 				large="gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
 			}
 		}
 		country_leader={
-			ideology=oligarchism
-			traits={ fortification_engineer }
-			expire="1954.1.1.12"
+			ideology=centrism
+			traits={ retired_officer hawk }
+			expire="1945.7.31.1"
 			id=-1
 		}
 	}
