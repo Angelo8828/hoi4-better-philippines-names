@@ -6,11 +6,11 @@ It's a simple mod written for replacing entity names (ex. countries, units, flag
 
 #### Why?
 
-The names "Ganap Philippines" and "Huk Community of the Philippines" just suck, and those names are unheard and not existing in Philippine history.
+The names "Ganap Philippines" and "Huk Community of the Philippines" just suck, and those names are unheard of and not existing in Philippine history.
 
-In addition, the generic infantry division name for the Philippines, "1st Philippines Division" also suck (really Paradox Interactive?).
+In addition, the generic infantry division name for the Philippines, "1st Philippines Division" also sucks (really Paradox Interactive?).
 
-HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and in real-life, especially in WW2.
+HOI4 is one of the most amazing strategy games out there but Filipino names just suck in the game, though I can understand it since the Philippines is just a minor nation in the game and in real life, especially in WW2.
 
 #### Installation notes
 - Download the contents of this repository and place it on your `Documents/Paradox Interactive/Hearts of Iron IV/mod`. If the mod folder is not existing, then you can create it manually.
@@ -18,11 +18,11 @@ HOI4 is one of the most amazing strategy games out there but Filipino names just
 
 #### Guarantees and limitations
 
-This mod is meant to **replace only entity names. I did not override the vanilla features/mechanics for the game.** For example, the Phillipines will still be a democratic puppet of the US in the 1936 and 1939 starts of the game. I also did not changed any of the ideas, techs and equipment count of the Philippines.
+This mod is meant to **replace only entity names. I did not override the vanilla features/mechanics for the game.** For example, the Philippines will still be a democratic puppet of the US in the 1936 and 1939 starts of the game. I also did not change any of the ideas, techs, and equipment count of the Philippines.
 
-It's because for me, the game vanilla mechanics are already enjoyable and enough. It's just that the names for the Philippine entities in the game suck.
+It's because, for me, the game's vanilla mechanics are already enjoyable enough. It's just that the names of the Philippine entities in the game suck.
 
-Based from my manual testing, other nations can still be played normally while the mod is active.
+Based on my manual testing, other nations can still be played normally while the mod is active.
 
 I also created the mod in a way that it won't break any future DLC releases for HOI4.
 
@@ -41,7 +41,7 @@ I chose the new names of the Philippines according to my own interpretation of P
 
 Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. It's actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it's a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
 
-For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as it's name because I think they would choose it to be the Philippine's name if they would be able to have a chance to rule the archipelago.
+For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as its name because I think they would choose it to be the Philippines' name if they would be able to have a chance to rule the archipelago.
 
 For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it's the one chosen by Andres Bonifacio to be the name of the new Independent Philippines.
 
@@ -62,7 +62,7 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 ##### Ship name changes
 
-- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Phillipines (destroyers, cruisers to aircraft carriers and battleships).
+- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers to aircraft carriers and battleships).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
 
