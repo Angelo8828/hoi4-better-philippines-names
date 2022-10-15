@@ -2,7 +2,7 @@
 
 #### About
 
-It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippine Republic in the game, Hearts of Iron IV.
+It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippines in the game, Hearts of Iron IV. Currently, this mod is only compatible with the [(La Résistance)](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance) and [(No Step Back)](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back)
 
 #### Why?
 
@@ -68,8 +68,4 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 ##### Bonus feature - Benigno Ramos
 
-Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine History because he is a Japanese collaborationist.
-
-#### Issues / Future notes
-
-Please feel free to reports issues about bugs and feature requests that might be related to name changes only. I'm planning to create a separate mod/project in the future. The concept of the mod that I might create is `What if the 2021 Philippines has been transported back in time, in 1936 pre-WW2 era?`.
+Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his own party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
