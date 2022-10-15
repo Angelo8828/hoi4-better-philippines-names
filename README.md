@@ -56,7 +56,7 @@ Regarding the Fascist Philippines' name, the Second Philippine Republic headed b
 
 I chose `Luis M. Taruc` to be the leader of "Partido Komunista ng Pilipinas". He was the leader of [(Hukbalahap)](https://en.wikipedia.org/wiki/Hukbalahap), a guerilla movement formed by Filipino communists to fight the Japanese occupiers. For the communist Philippines, I just chose `Bayan` as its name because I think the communists would choose it to be the Philippines' new name if they would be able to have a chance to rule the archipelago
 
-For the `Haring Bayang Katagalugan` (Sovereign Tagalog Nation), it has been proposed by Andres Bonifacio to be the name of a new independent Philippines. Aside from Emilio Aguinaldo (who is already a political adviser), the only remaining alive veteran officer of the Philippine Revolutionary War of 1896 when WWII broke out is `Gen. Artemio Ricarte`. Ricarte has been living in self-exile in Japan when the war broke out but came back to the Philippines during the war [(source)](https://en.wikipedia.org/wiki/Artemio_Ricarte)
+For the `Haring Bayang Katagalugan` (Sovereign Tagalog Nation), it has been proposed by Andres Bonifacio to be the name of a new independent Philippines. Aside from Emilio Aguinaldo (who is already a political adviser in the game), the only remaining alive veteran officer of the Philippine Revolutionary War of 1896 when WWII broke out is `Gen. Artemio Ricarte`. Ricarte has been living in self-exile in Japan when the war broke out but came back to the Philippines during the war [(source)](https://en.wikipedia.org/wiki/Artemio_Ricarte)
 
 Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag (for the communist Philippines) because those concepts just became available after WW2.
 </em>
