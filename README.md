@@ -34,7 +34,7 @@ I also created the mod in a way that it won't break any future DLC releases for 
 - `Manuel Luis Quezon` will still be the leader of the `Nacionalista Party`.
 
 ###### Fascism
-- Fascist Phillipines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
+- Fascist Philippines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
 - `Benigno P. Ramos` will be the leader of the `Ganap Party`, having a generic portrait
 
 ###### Communism
@@ -42,7 +42,7 @@ I also created the mod in a way that it won't break any future DLC releases for 
 - `Luis M. Taruc` will be the leader of the `Partido Komunista ng Pilipinas`, having a generic portrait too
 
 ###### Neutral
-- Neutral Philippines will have a new name, `Haring Bayang Katagalugan` and will have a flag based on the Katipunan Magdalo Flag.
+- Neutral Philippines will have a new name, `Haring Bayang Katagalugan`, and will have a flag based on the Katipunan Magdalo Flag.
 - `Artemio Ricarte` will lead the reformed `Katipunan`, also having a generic portrait
 
 <em>
@@ -54,9 +54,9 @@ Regarding the Fascist Philippines' name, the Second Philippine Republic headed b
 
 `Benigno P. Ramos` will be the leader of the Fascist Philippines. In real life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
 
-I chose `Luis M. Taruc` to be the leader of "Partido Komunista ng Pilipinas". He was the leader of [(Hukbalahap)](https://en.wikipedia.org/wiki/Hukbalahap), a guerilla movement formed by Filipino communist to fight the Japanese occupiers. For the communist Philippines, I just chose `Bayan` as its name because I think the communists would choose it to be the Philippines' new name if they would be able to have a chance to rule the archipelago
+I chose `Luis M. Taruc` to be the leader of "Partido Komunista ng Pilipinas". He was the leader of [(Hukbalahap)](https://en.wikipedia.org/wiki/Hukbalahap), a guerilla movement formed by Filipino communists to fight the Japanese occupiers. For the communist Philippines, I just chose `Bayan` as its name because I think the communists would choose it to be the Philippines' new name if they would be able to have a chance to rule the archipelago
 
-For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it has been proposed by Andres Bonifacio to be the name of a new independent Philippines. Aside from Emilio Aguinaldo (which is already a political advider), the only remaining alive veteran officer of the Philippine Revolutionary War of 1896 when WWII broke out is `Gen. Artemio Ricarte`. Ricarte has been living in self-exile in Japan when the war broke out, but came back to the Philippines during the war [(source)](https://en.wikipedia.org/wiki/Artemio_Ricarte)
+For the `Haring Bayang Katagalugan` (Sovereign Tagalog Nation), it has been proposed by Andres Bonifacio to be the name of a new independent Philippines. Aside from Emilio Aguinaldo (who is already a political adviser), the only remaining alive veteran officer of the Philippine Revolutionary War of 1896 when WWII broke out is `Gen. Artemio Ricarte`. Ricarte has been living in self-exile in Japan when the war broke out but came back to the Philippines during the war [(source)](https://en.wikipedia.org/wiki/Artemio_Ricarte)
 
 Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag (for the communist Philippines) because those concepts just became available after WW2.
 </em>
