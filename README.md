@@ -39,7 +39,7 @@ Notes:
 
 I chose the new names of the Philippines according to my interpretation of Philippine History before and during World War II.
 
-Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it was a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of the English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
+Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it was a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of the English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation.
 
 For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as its name because I think they would choose it to be the Philippines' name if they would be able to have a chance to rule the archipelago.
 
