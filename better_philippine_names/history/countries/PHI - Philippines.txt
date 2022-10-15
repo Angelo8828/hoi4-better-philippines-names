@@ -16,8 +16,8 @@ set_technology = {
 set_convoys = 5
 
 recruit_character = PHI_manuel_luis_quezón
-recruit_character = PHI_pedro_p_baguisa
-recruit_character = PHI_deodato_jacinto
+recruit_character = PHI_luis_taruc
+recruit_character = PHI_benigno_ramos
 recruit_character = PHI_hermano_jacinto
 recruit_character = PHI_pelagio_cruz
 recruit_character = PHI_jose_v_andrada

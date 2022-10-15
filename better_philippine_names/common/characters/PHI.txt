@@ -8,25 +8,27 @@ characters={
 		}
 		country_leader={
 			ideology=conservatism
-			expire="1965.1.1.1"
+			traits={ national_integralist dealbroker }
+			expire="1944.8.1.1"
 			id=-1
 		}
 	}
-	PHI_pedro_p_baguisa={
-		name="Pedro P. Baguisa"
+	PHI_luis_taruc={
+		name="Luis M. Taruc"
 		portraits={
 			civilian={
-				large="gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_communism.dds"
 			}
 		}
 		country_leader={
 			ideology=marxism
-			expire="1965.1.1.1"
+			traits={ ideological_crusader headstrong }
+			expire="2005.5.4.1"
 			id=-1
 		}
 	}
-	PHI_deodato_jacinto={
-		name="Deodato Jacinto"
+	PHI_benigno_ramos={
+		name="Benigno P. Ramos"
 		portraits={
 			civilian={
 				large="gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
@@ -34,7 +36,8 @@ characters={
 		}
 		country_leader={
 			ideology=nazism
-			expire="1941.1.1.12"
+			traits={ editor eager_collaborator }
+			expire="1965.1.1.1"
 			id=-1
 		}
 	}
@@ -42,7 +45,7 @@ characters={
 		name="Hermano Jacinto"
 		portraits={
 			civilian={
-				large="gfx/leaders/Asia/portrait_asia_generic_4.dds"
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
 			}
 		}
 		country_leader={
