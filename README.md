@@ -28,7 +28,7 @@ I also created the mod in a way that it won't break any future DLC releases for 
 
 #### Features
 
-##### Country, party and leader name changes
+##### Country, party, and leader name changes
 ###### Democracy
 - Democratic Philippines will retain its name, `Philippines`.
 - `Manuel Luis Quezon` will still be the leader of the `Nacionalista Party`.
