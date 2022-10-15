@@ -29,17 +29,17 @@ I also created the mod in a way that it won't break any future DLC releases for 
 #### Features
 
 ##### Country name changes
-- Democratic Philippines will retain it's name, `Philippines`.
+- Democratic Philippines will retain its name, `Philippines`.
 - Neutral/Monarchy Philippines will have a new name, `Haring Bayang Katagalugan` and will have a flag based on the Katipunan Magdalo Flag.
 - Fascist Phillipines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
-- Communist Philippines will be called `Bayan`. For it's flag, I chose the old neutral/monarchy Philippines flag.
+- Communist Philippines will be called `Bayan`. For its flag, I chose the old neutral/monarchy Philippines flag.
 
 <em>
 Notes:
 
 I chose the new names of the Philippines according to my interpretation of Philippine History before and during World War II.
 
-Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since its a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
+Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it was a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of the English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
 
 For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as its name because I think they would choose it to be the Philippines' name if they would be able to have a chance to rule the archipelago.
 
@@ -62,10 +62,10 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 ##### Ship name changes
 
-- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers to aircraft carriers and battleships).
+- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers, battleships, and aircraft carriers).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
 
 ##### Bonus feature - Benigno Ramos
 
-Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real-life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his own party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
+Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
