@@ -2,7 +2,7 @@
 
 #### About
 
-It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippines in the game, Hearts of Iron IV. Currently, this mod is only compatible with the [(La Résistance)](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance) and [(No Step Back)](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back)
+It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippines in the game, Hearts of Iron IV. Currently, this mod is only compatible with **[La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance)** and **[No Step Back](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back)** DLCs.
 
 #### Why?
 
