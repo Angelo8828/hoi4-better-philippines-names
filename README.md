@@ -100,4 +100,4 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 #### Possible future improvements
 - Custom portraits for Benigno Ramos, Luis Taruc, and Artemio Ricarte
-- Custom flag designs for fascist, communist, and neutral Philippines
+- Custom flag designs for fascist, communist, and the neutral Philippines
