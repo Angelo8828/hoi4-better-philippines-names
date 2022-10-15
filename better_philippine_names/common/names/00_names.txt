@@ -2642,18 +2642,18 @@ PAK = {
 
 PHI = {
 	male = {
-		names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Antonio León Simeón Arcadio Artemio Manuel Gregorio Fernando Vicente Benigno Crisanto Arturo Pedro Miguel Luis Marcelo }
+		names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Antonio León Simeón Arcadio Artemio Manuel Gregorio Fernando Vicente Benigno Crisanto Arturo Pedro Miguel Luis Marcelo Juan Claro }
 	}
 	female = {
 		names = {
-			Ana Consolación Graciela Imelda Isabella María Vilma Raquel Yasmin Zenaida Josefa Corazon
+			Ana Consolación Graciela Imelda Isabella María Vilma Raquel Yasmin Zenaida Josefa Corazon Susan
 		}
 	}
 	surnames = {
-		Aguinaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano Salvador Llanes Escoda Elizalde Malvar
-		Aquino Lim Abad-Santos Santos Evangelista Ricarte Ramos Taruc Quezon Roxas
+		Aguinaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano Salvador "Llanes-Escoda" Elizalde Malvar
+		Aquino Lim "Abad Santos" Santos Evangelista Ricarte Ramos Taruc Quezon Roxas Roces Recto Sumulong
 	}
-	callsigns = { }
+	callsigns = { Agila Lawin Bagwis Alapaap Mandirigma Probinsiyano Barbero Mananabas Maligno Uno "Da King" }
 }
 SIA = {
 	male = {
