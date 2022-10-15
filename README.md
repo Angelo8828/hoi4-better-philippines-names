@@ -28,22 +28,35 @@ I also created the mod in a way that it won't break any future DLC releases for 
 
 #### Features
 
-##### Country name changes
+##### Country, party and leader name changes
+###### Democracy
 - Democratic Philippines will retain its name, `Philippines`.
-- Neutral/Monarchy Philippines will have a new name, `Haring Bayang Katagalugan` and will have a flag based on the Katipunan Magdalo Flag.
+- `Manuel Luis Quezon` will still be the leader of the `Nacionalista Party`.
+
+###### Fascism
 - Fascist Phillipines will be called `Pilipinas`. It will have the same flag as the democratic Philippines.
+- `Benigno P. Ramos` will be the leader of the `Ganap Party`, having a generic portrait
+
+###### Communism
 - Communist Philippines will be called `Bayan`. For its flag, I chose the old neutral/monarchy Philippines flag.
+- `Luis M. Taruc` will be the leader of the `Partido Komunista ng Pilipinas`, having a generic portrait too
+
+###### Neutral
+- Neutral Philippines will have a new name, `Haring Bayang Katagalugan` and will have a flag based on the Katipunan Magdalo Flag.
+- `Artemio Ricarte` will lead the reformed `Katipunan`, also having a generic portrait
 
 <em>
 Notes:
 
 I chose the new names of the Philippines according to my interpretation of Philippine History before and during World War II.
 
-Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it was a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of the English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation.
+Regarding the Fascist Philippines' name, the Second Philippine Republic headed by former President Jose P. Laurel in real life didn't change the country's name. Its actual official name is `Republika ng Pilipinas` but you can notice that it has no official English translation, only Japanese and Spanish ones, since it was a puppet republic by the Japanese in WW2 [(source)](https://en.wikipedia.org/wiki/Second_Philippine_Republic). It's because the Japanese discouraged the usage of the English language and promoted Nihongo instead, while the Philippines was under the Japanese occupation
 
-For the communist Philippines, it's somewhat problematic because the "Partido Komunista ng Pilipinas" was just an underground movement in the 1930s and has no presence in Commonwealth-era Philippine politics. I just chose `Bayan` as its name because I think they would choose it to be the Philippines' name if they would be able to have a chance to rule the archipelago.
+`Benigno P. Ramos` will be the leader of the Fascist Philippines. In real life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
 
-For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it's the one chosen by Andres Bonifacio to be the name of the new Independent Philippines.
+I chose `Luis M. Taruc` to be the leader of "Partido Komunista ng Pilipinas". He was the leader of [(Hukbalahap)](https://en.wikipedia.org/wiki/Hukbalahap), a guerilla movement formed by Filipino communist to fight the Japanese occupiers. For the communist Philippines, I just chose `Bayan` as its name because I think the communists would choose it to be the Philippines' new name if they would be able to have a chance to rule the archipelago
+
+For the `Haring Bayang Katagalugan` or (Sovereign Tagalog Nation), it has been proposed by Andres Bonifacio to be the name of a new independent Philippines. Aside from Emilio Aguinaldo (which is already a political advider), the only remaining alive veteran officer of the Philippine Revolutionary War of 1896 when WWII broke out is `Gen. Artemio Ricarte`. Ricarte has been living in self-exile in Japan when the war broke out, but came back to the Philippines during the war [(source)](https://en.wikipedia.org/wiki/Artemio_Ricarte)
 
 Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag (for the communist Philippines) because those concepts just became available after WW2.
 </em>
@@ -65,7 +78,3 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 - Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers, battleships, and aircraft carriers).
 
 - Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
-
-##### Bonus feature - Benigno Ramos
-
-Benigno P. Ramos will now be the **default leader of the Fascist Philippines**. In real life, he is the founder of the Sakdalistas and the Makapili [(source)](https://en.wikipedia.org/wiki/Benigno_Ramos). I also chose a generic portrait for him. He is a nationalist but somewhat controversial figure in Philippine history because he is a Japanese collaborationist. He led 20,000 members of his party, the Sakdalistas in an uprising in May 1935, but was quickly crushed by the American Insular Government
