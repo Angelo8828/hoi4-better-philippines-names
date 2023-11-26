@@ -2,7 +2,7 @@
 
 #### About
 
-It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippines in the game, Hearts of Iron IV. Currently, this mod is only compatible with **[La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance)** and **[No Step Back](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back)** DLCs.
+It's a simple mod written for replacing entity names (ex. countries, units, flags, ships, etc.) for the Philippines in the game, Hearts of Iron IV. Currently, this mod is compatible only for **[La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance)**, **[No Step Back](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back)** and **[Arms Against Tyranny](https://store.steampowered.com/app/2183930/Expansion__Hearts_of_Iron_IV_Arms_Against_Tyranny)** DLCs.
 
 #### Why?
 
@@ -49,6 +49,10 @@ I also created the mod in a way that it won't break any future DLC releases for 
 - `Artemio Ricarte` will lead the reformed `Katipunan`, also having a generic portrait
 - Added `Retired Officer` and `Hawk` traits to Artemio Ricarte
 
+##### Other minor features
+
+- Added `Jose Abad Santos` as `Democratic Reformer` and replaced `Emilio Aguinaldo`'s portrait
+
 <em>
 Notes:
 
@@ -79,9 +83,9 @@ Additional notes, **we can't use** the name `Maharlika` and the CPP-NPA-NDF flag
 
 ##### Ship name changes
 
-- Surface ship names will now default to `RPS - Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS - Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers, battleships, and aircraft carriers).
+- Surface ship names will now default to `RPS Barkong Pandigma %romanNumeral%`. For example, it will be like **RPS Barkong Pandigma I**. This rule will apply to all surface ships that will be created by the Philippines (destroyers, cruisers, battleships, and aircraft carriers).
 
-- Submarine names will now default to `RPS - Submarino %romanNumeral%`. For example, it will be like **RPS - Submarino I**.
+- Submarine names will now default to `RPS Submarino %romanNumeral%`. For example, it will be like **RPS Submarino I**.
 
 ##### New custom Filipino callsigns for flying aces
 

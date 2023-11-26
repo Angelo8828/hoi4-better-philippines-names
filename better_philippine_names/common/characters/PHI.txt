@@ -372,7 +372,7 @@ characters={
 		name="Emilio Aguinaldo"
 		portraits={
 			army={
-				small="GFX_idea_generic_political_advisor_asia_3"
+				small="GFX_idea_generic_army_asia_2"
 			}
 		}
 	}
@@ -414,4 +414,32 @@ characters={
 			}
 		}
 	}
+
+	PHI_jose_abad_santos={
+		advisor={
+			slot = political_advisor
+			idea_token = PHI_jose_abad_santos
+			allowed  = {
+				original_tag  = phi
+			}
+			traits  = {
+				democratic_reformer
+			}
+			do_effect  = {
+				NOT  = {
+					has_government  = democratic
+				}
+			}
+		}
+# TODO[ PORTRAIT LARGE ]: Missing large portrait please check!
+		name="Jose Abad Santos"
+		portraits={
+			army={
+				small="GFX_idea_generic_political_advisor_asia_3"
+			}
+		}
+	}
+
+
+
 }

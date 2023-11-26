@@ -9,7 +9,7 @@ PHI_DD_HISTORICAL = {
 	ship_types = { ship_hull_light destroyer }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
 		"Rajah Soliman" "Rajah Lakandula" "Datu Kalantiaw" "Datu Sikatuna" "Andres Bonifacio" "Gregorio del Pilar" "Diego Silang" "Francisco Dagohoy"
@@ -28,7 +28,7 @@ PHI_CL_HISTORICAL = {
 	ship_types = { ship_hull_cruiser light_cruiser }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
 		"Quezon" "Rizal" "Cebu" "Pangasinan" "Iloilo" "Manila" "Luzon" "Cabanatuan" "Batangas" "Cadiz" "Davao"
@@ -45,7 +45,7 @@ PHI_CA_HISTORICAL = {
 	ship_types = { ship_hull_cruiser heavy_cruiser }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
 		"Quezon" "Rizal" "Cebu" "Pangasinan" "Iloilo" "Manila" "Luzon" "Cabanatuan" "Batangas" "Cadiz" "Davao"
@@ -62,7 +62,7 @@ PHI_BB_HISTORICAL = {
 	ship_types = { ship_hull_heavy battleship }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
 		"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
@@ -79,7 +79,7 @@ PHI_BC_HISTORICAL = {
 	ship_types = { ship_hull_heavy battle_cruiser }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
  		"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
@@ -96,7 +96,7 @@ PHI_CV_HISTORICAL = {
 	ship_types = { ship_hull_carrier carrier }
 
 	prefix = "RPS "
-	fallback_name = "Barkong Pandigma %s"
+	fallback_name = "RPS Barkong Pandigma %s"
 
 	unique = {
 		"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
@@ -114,7 +114,7 @@ PHI_SS_HISTORICAL = {
 	ship_types = { ship_hull_submarine submarine }
 
 	prefix = "RPS "
-	fallback_name = "Submarino %s"
+	fallback_name = "RPS Submarino %s"
 
 	unique = {
 		"Arabis" "Arbutus" "Hawea" "Kaniere" "Pukaki" "Rotoiti" "Taupo" "Tutira" "Echuca" "Thrust" "Inverell" "Kiama" "Stawell"
